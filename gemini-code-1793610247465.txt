@@ -1,0 +1,13 @@
+vinacoconut-web/
+├── index.html
+├── style.css
+├── main.js
+└── images/
+    ├── dừa sấy.webp
+    ├── coconut.jfif
+    ├── com-dua.jfif
+    ├── Cookies-dua-1_4581_anh1.jpg
+    ├── dừa 1.jpg
+    ├── dua don.jfif
+    ├── Dừa Giòn 1.jfif
+    └── Dừa Giòn.jfif
